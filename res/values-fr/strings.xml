@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="action_settings">paramètres</string>
+    <string name="app_name">leçon19</string>
+    <string name="berbeque">berbeque</string>
+    <string name="breakfast">déjeuner</string>
+    <string name="dinner">dîner</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="lunch">déjeuner</string>
+
+</resources>
